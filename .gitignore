@@ -1,0 +1,14 @@
+# Dependency directories
+node_modules/
+
+# Build output directory
+dist/
+build/
+
+# Environment files
+.env
+
+# Other common ignores
+.DS_Store
+.idea/
+*.log
